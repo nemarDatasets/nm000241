@@ -1,0 +1,28 @@
+﻿CerebroVoice: Bilingual sEEG Speech Dataset
+=============================================
+
+Overview
+--------
+Intracranial EEG (sEEG) recordings from 2 epilepsy patients during bilingual
+speech tasks (Mandarin Chinese, English, and digit reading). Recorded at
+1000 Hz with Nihon Kohden EEG-1200, depth electrodes (platinum-iridium).
+
+Data distributed as preprocessed NPY derivatives:
+- LFS: Low-frequency signal
+- HGA: High-gamma activity
+- BBS: Broadband signal
+
+Tasks: Chinese reading, English reading, digit reading
+Subjects: SUB1 (114 channels post-filtering), SUB2 (158 channels)
+Duration: ~73 min (SUB1), ~76 min (SUB2)
+
+Source: Zenodo (doi:10.5281/zenodo.13332808)
+License: CC BY 4.0
+
+
+References
+----------
+Appelhoff, S., Sanderson, M., Brooks, T., Vliet, M., Quentin, R., Holdgraf, C., Chaumon, M., Mikulan, E., Tavabi, K., Höchenberger, R., Welke, D., Brunner, C., Rockhill, A., Larson, E., Gramfort, A. and Jas, M. (2019). MNE-BIDS: Organizing electrophysiological data into the BIDS format and facilitating their analysis. Journal of Open Source Software 4: (1896).https://doi.org/10.21105/joss.01896
+
+Holdgraf, C., Appelhoff, S., Bickel, S., Bouchard, K., D'Ambrosio, S., David, O., … Hermes, D. (2019). iEEG-BIDS, extending the Brain Imaging Data Structure specification to human intracranial electrophysiology. Scientific Data, 6, 102. https://doi.org/10.1038/s41597-019-0105-7
+
