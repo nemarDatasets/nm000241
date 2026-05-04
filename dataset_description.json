@@ -1,27 +1,31 @@
 {
-    "Name": "CerebroVoice: Bilingual sEEG Speech Dataset",
-    "BIDSVersion": "1.9.0",
-    "DatasetType": "derivative",
-    "License": "CC BY 4.0",
-    "Authors": [
-        "Xueyi Zhang"
-    ],
-    "HowToAcknowledge": "Please cite the Zenodo record and OpenReview submission.",
-    "ReferencesAndLinks": [
-        "https://zenodo.org/records/13332808",
-        "https://openreview.net/forum?id=3sfOGsBh85"
-    ],
-    "DatasetDOI": "doi:10.5281/zenodo.13332808",
-    "GeneratedBy": [
-        {
-            "Name": "convert_cerebrovoice.py (EEGDash)",
-            "Description": "Converted from NPY derivatives to BIDS-iEEG format.",
-            "CodeURL": "https://github.com/bruaristimunha/EEGDash"
-        }
-    ],
-    "SourceDatasets": [
-        {
-            "URL": "https://zenodo.org/records/13332808"
-        }
-    ]
+  "Name": "CerebroVoice: Bilingual sEEG Speech Dataset",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "derivative",
+  "License": "CC BY 4.0",
+  "Authors": [
+    "Xueyi Zhang"
+  ],
+  "HowToAcknowledge": "Please cite the Zenodo record and OpenReview submission.",
+  "ReferencesAndLinks": [
+    "https://zenodo.org/records/13332808",
+    "https://openreview.net/forum?id=3sfOGsBh85"
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000241",
+  "GeneratedBy": [
+    {
+      "Name": "convert_cerebrovoice.py (EEGDash)",
+      "Description": "Converted from NPY derivatives to BIDS-iEEG format.",
+      "CodeURL": "https://github.com/bruaristimunha/EEGDash"
+    }
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://zenodo.org/records/13332808"
+    },
+    {
+      "DOI": "doi:10.5281/zenodo.13332808"
+    }
+  ],
+  "Version": "1.0.0"
 }
