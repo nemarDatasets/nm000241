@@ -1,11 +1,11 @@
 {
     "TaskName": "englishlfs",
-    "Manufacturer": "Brain Products",
+    "Manufacturer": "Nihon Kohden",
     "PowerLineFrequency": "n/a",
     "SamplingFrequency": 200.0,
     "SoftwareFilters": "n/a",
     "RecordingDuration": 341.995,
-    "RecordingType": "continuous",
+    "RecordingType": "epoched",
     "iEEGReference": "n/a",
     "ECOGChannelCount": 0,
     "SEEGChannelCount": 158,
