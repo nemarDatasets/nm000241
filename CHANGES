@@ -1,3 +1,7 @@
+1.0.3 2026-10-30
+
+  - State unitless headers and the 1.5 s trial length for the z-scored features
+
 1.0.2 2026-10-16
   - dataset_description.json: Name expanded with the paper title (Zhang et al., OpenReview 3sfOGsBh85).
 
